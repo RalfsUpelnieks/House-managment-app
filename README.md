@@ -45,6 +45,7 @@ This project is a full-stack web application for managing residential properties
     - Open another terminal, navigate to the `house-management` folder, and install the necessary modules:
       ```bash
       npm install
+      npm install -g @angular/cli
       ```
     - Start the application:
       ```bash
