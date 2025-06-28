@@ -2,6 +2,8 @@
 
 This project is a full-stack web application for managing residential properties, including houses, apartments, and residents. The system is built using **ASP.NET Core** for the backend REST API and **Angular + Bootstrap 5** for the frontend interface.
 
+![HouseManagmentApp](https://github.com/user-attachments/assets/4140420a-8d40-4629-ac50-c320acb8ed8c)
+
 ---
 
 ## Backend – ASP.NET Core Web API
