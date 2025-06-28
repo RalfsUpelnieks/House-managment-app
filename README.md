@@ -36,13 +36,13 @@ This project is a full-stack web application for managing residential properties
    ```
 
 3. **Run the Backend**:
-    - Open a terminal, navigate to the `HousingManagementAPI` folder, and run:
+    - Open in terminal the `HousingManagementAPI` folder, and start the backend:
       ```bash
       dotnet run
       ```
 
 5. **Run the Frontend**:
-    - Open another terminal, navigate to the `house-management` folder, and install the necessary modules:
+    - Open in another terminal the `house-management` folder, and install the necessary modules:
       ```bash
       npm install
       npm install -g @angular/cli
